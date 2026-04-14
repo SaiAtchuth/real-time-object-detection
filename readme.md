@@ -1,5 +1,5 @@
 # 🚀 Real-Time Object Detection with YOLOv8
-![Detection Output](image.png)
+![Detection Output](output.png)
 ## 📌 Overview
 This project implements real-time object detection using YOLOv8 and OpenCV. It also measures system performance using FPS (Frames Per Second) and Latency.
 
